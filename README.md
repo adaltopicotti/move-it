@@ -24,10 +24,6 @@ A ideia da aplicação é ser uma "gameficação" da técnica conhecida como pom
 
 ---
 
-<p align="center">
-<img src="./public/logo-full.svg" />
-</p>
-
 <div align="center">
 	<h2>Demonstração do projeto:</h2>
   <h3><a align="center" href="https://moveit-kappa-silk.vercel.app">https://moveit-kappa-silk.vercel.app/a><h3>
@@ -43,6 +39,7 @@ ___
 - ReactJS;
 - TypeScript;
 - Next.JS;
+- Context Api
 
 ---
 
@@ -66,3 +63,9 @@ yarn or npm install
 ```
 yarn dev or npm run dev
 ```
+
+---
+
+## :memo: License
+This is a Rocketseat Next Level Weak (NLW) project 
+
