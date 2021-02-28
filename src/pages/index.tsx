@@ -1,3 +1,4 @@
+import 'isomorphic-fetch';
 import Head from 'next/head';
 import { GetServerSideProps } from 'next';
 
@@ -60,6 +61,7 @@ export default function Home(props: HomeProps) {
     </ChallengesProvider>
   )
 }
+
 
 export const getServerSideProps: GetServerSideProps = async (ctx) => {
   // chamada api
